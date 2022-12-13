@@ -12,7 +12,7 @@
   - [Questions](#questions)
   - [License](#license)
   ## Installation
-  The application can be install by running:<br/>```npm init```<br/>```npm i inquirer@8.2.4```<br/>```npm i axios```<br/>
+  The application can be installed by running:<br/>```npm init```<br/>```npm i inquirer@8.2.4```<br/>```npm i axios```<br/>
   ## Usage
   The application will be invoked by using the following command:<br/>```node index.js```<br/>By successfully answering the prompts, a README.md file should be generated in the same directory.
   ## Screenshots
